@@ -1,4 +1,8 @@
 # deploylane
+
+Just some notes...
+
+
 Docker, Kubernetes, Jenkins, Ansible, AWX, Python, ...
 
 Create a Continuous Delivery lane using containers.
